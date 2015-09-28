@@ -1,0 +1,10 @@
+.Header {
+  position: fixed;
+  width: 100%;
+  opacity: 0.85;
+  &__tittle {
+    font-size: 2rem;
+    padding: 0.5rem 0;
+    text-align: center;
+  }
+}

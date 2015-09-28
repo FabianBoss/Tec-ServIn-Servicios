@@ -1,0 +1,18 @@
+//Colores
+$color-body: #EEE;
+$color-header: darken($color-body, 15%);
+
+//Propiedades
+$sombra: 0 0 0.2rem rgba(0, 0, 0, 0.2);
+
+body {
+  background-color: $color-body;
+}
+
+.Header {
+  background-color: $color-header;
+  box-shadow: $sombra;
+  &__tittle {
+    font-family: lobster-two;
+  }
+}
