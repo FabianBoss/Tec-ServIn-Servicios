@@ -1,5 +1,3 @@
-# Base
+# Servicios
 
-Este proyecto servirá de **base** para las tareas del curso de Servicios de Internet.
-
-:)
+WebSite sobre cinco Servicios de Internet.

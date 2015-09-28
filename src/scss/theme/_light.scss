@@ -1,5 +1,5 @@
 //Colores
-$color-body: #EEE;
+$color-body: #C9D8E6;
 $color-header: darken($color-body, 15%);
 
 //Propiedades
@@ -7,6 +7,10 @@ $sombra: 0 0 0.2rem rgba(0, 0, 0, 0.2);
 
 body {
   background-color: $color-body;
+}
+
+h2 {
+  color: #444;
 }
 
 .Header {
